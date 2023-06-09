@@ -5,13 +5,8 @@
 		<title>商品一覧</title>
 	</head>
 	<body>
-
-
-
-
 		<?php
-
-			require_once '_database_conf.php';
+//			require_once '_database_conf.php';
 			require_once '_h.php';
 
 			try
