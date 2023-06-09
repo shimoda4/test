@@ -21,7 +21,7 @@
 
 				$db=null;
 				
-				print '商品一覧<br /><br />';
+//				print '商品一覧<br /><br />';
 
 
 				$rec=$stmt->fetch(PDO::FETCH_ASSOC);
